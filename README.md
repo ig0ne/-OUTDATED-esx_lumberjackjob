@@ -1,7 +1,7 @@
 # lumberjackjob
 Métier de bûcheron/Lumberjack job
 
-#FR
+# FR
 **Vous aurez besoin de**
 https://github.com/indilo53/fivem-es_extended
 
@@ -11,7 +11,7 @@ https://github.com/indilo53/fivem-es_extended
 
 #Script original ==> https://github.com/indilo53
 
-#EN
+# EN
 **You will need**
 https://github.com/indilo53/fivem-es_extended
 
